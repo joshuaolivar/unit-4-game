@@ -1,0 +1,49 @@
+
+body {
+	background-color: aquamarine
+}
+
+.jumbotron {
+	background-color: beige;
+}
+
+#gameSection {
+	background-color: green;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#scoreSection {
+    background-color: teal;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#buttonSection {
+	padding: 0px;
+	padding-top: 45px;
+	padding-bottom: 20px;
+}
+
+
+h1, h2, h3 {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
+
+
+.icons {
+  	max-width: 100px;
+  	max-height: 100px;
+    height: auto;  
+    width: auto;
+  	margin:10px;
+}
